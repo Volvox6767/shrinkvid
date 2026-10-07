@@ -1,7 +1,7 @@
 # shrinkvid 🎬➡️📦
 
 **EN | Shrink any video to an exact target size — WhatsApp, Discord, e-mail limits — with one command.**
-**TR | Herhangi bir videoyu tek komutla hedef boyuta sıkıştırır — WhatsApp, Discord, e-posta limitlerine uydurur.**
+**TR | VideoKüçült — Herhangi bir videoyu tek komutla hedef boyuta sıkıştırır — WhatsApp, Discord, e-posta limitlerine uydurur.**
 
 No uploads. No watermarks. No "free trial". Your video never leaves your computer.
 Yükleme yok. Filigran yok. "Ücretsiz deneme" yok. Videonuz bilgisayarınızdan hiç çıkmaz.
